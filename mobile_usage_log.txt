@@ -1,0 +1,48 @@
+Person ID: 1
+Mobile usage from 2024-08-30 12:24:27 to 2024-08-30 12:24:32 - Duration: 5.00 seconds
+
+Person ID: 1
+Mobile usage from 2024-08-30 12:24:27 to 2024-08-30 12:24:32 - Duration: 5.00 seconds
+
+Person ID: 2
+Mobile usage from 2024-08-30 12:24:27 to 2024-08-30 12:24:32 - Duration: 5.00 seconds
+
+Person ID: 2
+Mobile usage from 2024-08-30 12:24:27 to 2024-08-30 12:24:32 - Duration: 5.00 seconds
+
+Person ID: 3
+Mobile usage from 2024-08-30 12:24:27 to 2024-08-30 12:24:32 - Duration: 5.00 seconds
+
+Person ID: 3
+Mobile usage from 2024-08-30 12:24:27 to 2024-08-30 12:24:32 - Duration: 5.00 seconds
+
+Person ID: 4
+Mobile usage from 2024-08-30 12:24:27 to 2024-08-30 12:24:32 - Duration: 5.00 seconds
+
+Person ID: 4
+Mobile usage from 2024-08-30 12:24:27 to 2024-08-30 12:24:32 - Duration: 5.00 seconds
+
+Person ID: 5
+Mobile usage from 2024-08-30 12:24:27 to 2024-08-30 12:24:32 - Duration: 5.00 seconds
+
+Person ID: 5
+Mobile usage from 2024-08-30 12:24:27 to 2024-08-30 12:24:32 - Duration: 5.00 seconds
+
+Person ID: 6
+Mobile usage from 2024-08-30 12:24:27 to 2024-08-30 12:24:32 - Duration: 5.00 seconds
+
+Person ID: 6
+Mobile usage from 2024-08-30 12:24:27 to 2024-08-30 12:24:32 - Duration: 5.00 seconds
+
+Person ID: 7
+Mobile usage from 2024-08-30 12:24:27 to 2024-08-30 12:24:32 - Duration: 5.00 seconds
+
+Person ID: 7
+Mobile usage from 2024-08-30 12:24:27 to 2024-08-30 12:24:32 - Duration: 5.00 seconds
+
+Person ID: 1
+Mobile usage from 2024-08-30 13:55:03 to 2024-08-30 13:55:08 - Duration: 5.00 seconds
+
+Person ID: 1
+Mobile usage from 2024-08-30 13:55:03 to 2024-08-30 13:55:08 - Duration: 5.00 seconds
+

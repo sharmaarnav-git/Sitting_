@@ -1,0 +1,180 @@
+Timestamp: 2024-08-30 13:19:04
+Person ID: 1
+Activity: Sitting
+Posture: Unknown
+Sitting Time: 0 sec
+
+Timestamp: 2024-08-30 13:19:04
+Person ID: 2
+Activity: Sitting
+Posture: Unknown
+Sitting Time: 0 sec
+
+Timestamp: 2024-08-30 13:19:17
+Person ID: 1
+Activity: Moving
+Posture: Sitting
+Sitting Time: 0 sec
+
+Timestamp: 2024-08-30 13:24:44
+Person ID: 1
+Activity: Sitting
+Posture: Sitting
+Sitting Time: 0 sec
+
+Timestamp: 2024-08-30 13:24:44
+Person ID: 2
+Activity: Sitting
+Posture: Sitting
+Sitting Time: 0 sec
+
+Timestamp: 2024-08-30 13:24:54
+Person ID: 1
+Activity: Moving
+Posture: Sitting
+Sitting Time: 10 sec
+
+Timestamp: 2024-08-30 13:25:00
+Person ID: 1
+Activity: Moving
+Posture: Sitting
+Sitting Time: 15 sec
+
+Timestamp: 2024-08-30 13:25:18
+Person ID: 1
+Activity: Moving
+Posture: Sitting
+Sitting Time: 33 sec
+
+Timestamp: 2024-08-30 13:25:24
+Person ID: 1
+Activity: Moving
+Posture: Sitting
+Sitting Time: 40 sec
+
+Timestamp: 2024-08-30 13:25:24
+Person ID: 2
+Activity: Moving
+Posture: Sitting
+Sitting Time: 40 sec
+
+Timestamp: 2024-08-30 13:25:24
+Person ID: 3
+Activity: Sitting
+Posture: Sitting
+Sitting Time: 0 sec
+
+Timestamp: 2024-08-30 13:25:30
+Person ID: 1
+Activity: Moving
+Posture: Sitting
+Sitting Time: 46 sec
+
+Timestamp: 2024-08-30 13:25:30
+Person ID: 2
+Activity: Moving
+Posture: Sitting
+Sitting Time: 46 sec
+
+Timestamp: 2024-08-30 13:25:55
+Person ID: 1
+Activity: Moving
+Posture: Sitting
+Sitting Time: 70 sec
+
+Timestamp: 2024-08-30 13:25:55
+Person ID: 2
+Activity: Moving
+Posture: Sitting
+Sitting Time: 70 sec
+
+Timestamp: 2024-08-30 13:26:07
+Person ID: 1
+Activity: Moving
+Posture: Sitting
+Sitting Time: 83 sec
+
+Timestamp: 2024-08-30 13:38:47
+Person ID: 1
+Activity: Sitting
+Posture: Sitting
+Sitting Time: 0 sec
+
+Timestamp: 2024-08-30 13:38:47
+Person ID: 2
+Activity: Sitting
+Posture: Sitting
+Sitting Time: 0 sec
+
+Timestamp: 2024-08-30 13:38:47
+Person ID: 3
+Activity: Sitting
+Posture: Sitting
+Sitting Time: 0 sec
+
+Timestamp: 2024-08-30 13:39:14
+Person ID: 1
+Activity: Moving
+Posture: Sitting
+Sitting Time: 26 sec
+
+Timestamp: 2024-08-30 13:39:14
+Person ID: 2
+Activity: Moving
+Posture: Sitting
+Sitting Time: 26 sec
+
+Timestamp: 2024-08-30 13:39:14
+Person ID: 3
+Activity: Moving
+Posture: Sitting
+Sitting Time: 26 sec
+
+Timestamp: 2024-08-30 13:39:21
+Person ID: 1
+Activity: Moving
+Posture: Sitting
+Sitting Time: 33 sec
+
+Timestamp: 2024-08-30 13:39:21
+Person ID: 2
+Activity: Moving
+Posture: Sitting
+Sitting Time: 33 sec
+
+Timestamp: 2024-08-30 13:39:26
+Person ID: 1
+Activity: Moving
+Posture: Sitting
+Sitting Time: 38 sec
+
+Timestamp: 2024-08-30 13:54:38
+Person ID: 1
+Activity: Sitting
+Posture: Sitting
+Sitting Time: 0 sec
+
+Timestamp: 2024-08-30 13:55:08
+Person ID: 1
+Activity: Moving
+Posture: Sitting
+Sitting Time: 29 sec
+
+Timestamp: 2024-08-30 13:55:08
+Person ID: 2
+Activity: Sitting
+Posture: Sitting
+Sitting Time: 0 sec
+
+Timestamp: 2024-08-30 13:55:15
+Person ID: 1
+Activity: Moving
+Posture: Sitting
+Sitting Time: 36 sec
+
+Timestamp: 2024-08-30 13:55:15
+Person ID: 2
+Activity: Moving
+Posture: Sitting
+Sitting Time: 6 sec
+
